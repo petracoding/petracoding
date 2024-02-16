@@ -20,5 +20,3 @@
 - :cloud: I used to make tumblr themes at [cloudythms.tumblr.com](https://cloudythms.tumblr.com/)
 
 - :blue_heart: ➜ https://petracoding.github.io/ 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=petracoding&show_icons=true&locale=en&layout=compact"  />
