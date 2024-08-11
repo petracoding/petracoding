@@ -7,13 +7,13 @@
 
 ```
 
-- :eyes: **Petra**, 24yo, she/her, Austria, queer
+- :eyes: **Petra**, 25yo, she/her, Austria, queer
 
-- :sauropod: I love dinosaurs, coding, writing and drawing
+- :sauropod: I love coding, writing, drawing & dinosaurs
 
 - :computer: I code `.html`, `.scss`, `.js`, `.php`, etc.
 
-- :cityscape: I have a [neocities site](https://petrapixel.neocities.org/) to appreciate old web
+- :cityscape: I have a [neocities website](https://petrapixel.neocities.org/) to appreciate the old web
 
 - :gear: I make helpful little [userscripts](https://greasyfork.org/en/users/354138-petracoding) on greasyfork
 
