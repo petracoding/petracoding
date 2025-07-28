@@ -7,7 +7,7 @@
 
 ```
 
-- :eyes: **Petra**, 25yo, she/her, Austria, queer
+- :eyes: **Petra**, 26yo, she/her, austrian, queer
 
 - :sauropod: I love coding, writing, drawing & dinosaurs
 
