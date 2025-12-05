@@ -1,9 +1,9 @@
 ```
-            __
-           / _)    <(   hello ♡  )
-    .-^^^-/ /
- __/       /  
-<__.|_|-|_|
+           __..--''``---....___   _..._    __
+ /// //_.-'    .-/";  `        ``<._  ``.''_ `. / // /
+///_.-' _..--.'_    \                    `( ) ) // //
+/ (_..-' // (< _     ;_..__               ; `' / ///
+ / // // //  `-._,_)' // / ``--...____..-' /// / //
 
 ```
 
@@ -21,10 +21,3 @@
 - 🧺 I create tools on [petracoding.github.io](https://petracoding.github.io/)
 
 - 🍂 I used to make tumblr themes at [cloudythms.tumblr.com](https://cloudythms.tumblr.com/)
-
-&nbsp;
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0571DP7)
-
-
-
