@@ -12,7 +12,7 @@
 &nbsp;
 - 💛 27, she/her, queer, austria, ex web dev
 
-- 📜 I code `.html`, `.scss`, `.js`, `.php`, etc.
+- 📜 I code `.html`, `.scss`, `.js` etc.
 
 - 🧸 I have a [neocities website](https://petrapixel.neocities.org/) to appreciate the old web
 
